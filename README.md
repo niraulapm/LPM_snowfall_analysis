@@ -8,6 +8,7 @@ Variation of the snowfall and the statistical relationship between snowfall and 
 
 ## Statistics of snowfall in the eight stations of LPM
 Mean snowfall(cm), the statndard deviation, the minimum and the maximul snowfall of the stations in 65 years is shown below.
+
 ![](snow_box.png)
 
 <b>Fig: Bos and whisker showing distribution of snowfall data of each station</b>
