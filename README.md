@@ -28,4 +28,4 @@ A strong negative correlation (r = -0.6, p-value = 0.0001) is found between snow
 <b>Fig: Pearson's correlation between air temperature and annual snowfall</b>
 
 ## Conclusion
-This study of long term climate data for 8 stations in the LPM suggests that air temperature is correlated (r = -0.74) with the snowfall.
+This study of long term climate data for 8 stations in the LPM suggests that air temperature is correlated (r = -0.6) with the snowfall.
