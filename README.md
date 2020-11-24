@@ -21,7 +21,7 @@ Mann-Kendall test is used to do the trend alalysis. Mann-Kendall test is commonl
 
 ## Corelation between average annual snowfall and air temperature
 
-A strong negative correlation (r = -0.74, p-value = 0.0001) is found between snowfall and the air temperature.
+A strong negative correlation (r = -0.6, p-value = 0.0001) is found between snowfall and the air temperature.
 
 ![](snow_airtemp.png)
 
